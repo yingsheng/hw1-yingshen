@@ -96,7 +96,7 @@
     </dependency>
   </dependencies>
   <scm>
-  	<connection>scm:git:git//github.com:yingsheng/hw1-yingshen.git</connection>
-  	<developerConnection>scm:git:git//github.com:yingsheng/hw1-yingshen.git</developerConnection>
+  	<connection>scm:git:git@github.com:yingsheng/hw1-yingshen.git</connection>
+  	<developerConnection>scm:git:git@github.com:yingsheng/hw1-yingshen.git</developerConnection>
   </scm>
 </project>
